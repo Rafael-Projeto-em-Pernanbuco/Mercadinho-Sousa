@@ -104,48 +104,48 @@
     <div class="product-grid">
         <!-- Exemplo de produto -->
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Arroz" alt="Arroz">
-            <h3>Arroz</h3>
+            <img src="https://arrozurbano.com/200x150?text=Arroz" alt="Arroz">
+            <h3>ArrozUrbano</h3>
             <p>R$ 25,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Feijão" alt="Feijão">
-            <h3>Feijão</h3>
+            <img src="https://feijaocariocanarcizio.com/200x150?text=Feijão" alt="Feijão">
+        <h3>Feijão Carioca Narcizio</h3>
             <p>R$ 10,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Açúcar" alt="Açúcar">
-            <h3>Açúcar</h3>
+            <img src="https://açucarcamponesa.com/200x150?text=Açúcar" alt="Açúcar">
+      <h3>Açúcar Campones</h3>
             <p>R$ 4,50</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Café" alt="Café">
-            <h3>Café</h3>
+            <img src="https://marata.com/200x150?text=Café" alt="Café">
+         <h3>Café Marata</h3>
             <p>R$ 7,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Biscoitos" alt="Biscoitos">
-            <h3>Biscoitos</h3>
+            <img src="https://richester.com/200x150?text=Biscoitos" alt="Biscoitos">
+    <h3>Biscoitos Richester</h3>
             <p>R$ 3,50</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Leite+Integral" alt="Leite Integral">
-            <h3>Leite Integral</h3>
+            <img src="https://petim.com/200x150?text=Leite+Integral" alt="Leite Integral">
+   <h3>Leite Integral Petim</h3>
             <p>R$ 6,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Sorvetes" alt="Sorvetes">
-            <h3>Sorvetes</h3>
+            <img src="https://kibom.com/200x150?text=Sorvetes" alt="Sorvetes">
+     <h3>Sorvetes Kibom</h3>
             <p>R$ 5,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Picolés" alt="Picolés">
-            <h3>Picolés</h3>
+            <img src="https://kibom.com/200x150?text=Picolés" alt="Picolés">
+       <h3>Picolés Kibom</h3>
             <p>R$ 2,00</p>
         </div>
         <div class="product">
-            <img src="https://via.placeholder.com/200x150?text=Sabão" alt="Sabão">
-            <h3>Sabão</h3>
+            <img src="https://sabaojua.com/200x150?text=Sabão" alt="Sabão">
+          <h3>Sabão Jua</h3>
             <p>R$ 3,00</p>
         </div>
         <!-- Adicione mais produtos aqui -->
@@ -163,7 +163,7 @@
     <h2>Entre em Contato</h2>
     <div class="chat-buttons">
         <a href="#" target="_blank">Chat de Atendimento</a>
-        <a href="https://wa.me/SEUNUMEROAQUI" target="_blank">WhatsApp</a>
+        <a href="https://wa.me/5587996349673" target="_blank">WhatsApp</a>
         <a href="https://www.instagram.com/seuusuario" target="_blank">Instagram</a>
         <a href="https://www.facebook.com/seupagina" target="_blank">Facebook</a>
         <a href="https://twitter.com/seuusuario" target="_blank">Twitter</a>
