@@ -1,0 +1,10 @@
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".add-to-cart");
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", function () {
+      const productName = this.dataset.name;
+      alert(`Você adicionou "${productName}" ao carrinho!`);
+    });
+  });
+});
