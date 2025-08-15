@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/Rafael-Projeto-em-Pernanbuco/mercadinho-sousa/
     <div class="product-grid">
         <!-- Exemplo de produto -->
         <div class="product">
-            <img src="https://raw.githubusercontent.com/Rafael-Projeto-em-Pernanbuco/mercadinho-sousa/refs/heads/main/Screenshot_20250815-134047.jpg/200x150?text=Arroz" alt="Arroz">
+            <img src="refs/heads/main/Screenshot_20250815-134047.jpg/200x150?text=Arroz" alt="Arroz">
             <h3>ArrozUrbano</h3>
             <p>R$ 25,00</p>
         </div>
