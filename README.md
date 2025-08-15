@@ -93,7 +93,6 @@
 <header>
     <h1>Mercadinho Sousa</h1>
     <p>Rua Cinco N°40, Bairro Popular Nova, Exu - PE</p>
-https://raw.githubusercontent.com/Rafael-Projeto-em-Pernanbuco/mercadinho-sousa/refs/heads/main/Screenshot_20250814-195138.jpg
 </header>
 
 <nav>
@@ -105,7 +104,6 @@ https://raw.githubusercontent.com/Rafael-Projeto-em-Pernanbuco/mercadinho-sousa/
     <div class="product-grid">
         <!-- Exemplo de produto -->
         <div class="product">
-            <img src="images/screenshot_20250815-134111.jpg" alt="Minha foto da galeria">
             <img src="https://www.zaely.com/200x150?text=Arroz" alt="Arroz">
             <h3>ArrozUrbano</h3>
             <p>R$ 25,00</p>
