@@ -93,6 +93,7 @@
 <header>
     <h1>Mercadinho Sousa</h1>
     <p>Rua Cinco N°40, Bairro Popular Nova, Exu - PE</p>
+https://raw.githubusercontent.com/Rafael-Projeto-em-Pernanbuco/mercadinho-sousa/refs/heads/main/Screenshot_20250814-195138.jpg
 </header>
 
 <nav>
